@@ -1,8 +1,8 @@
 <div align="center">
 
-# we-music-ctl
+# Tune
 
-**点击屏幕固定区域，一键开关 Wallpaper Engine 壁纸背景音乐**
+**Tune — 点击屏幕固定区域，一键开关 Wallpaper Engine 壁纸背景音乐**
 
 零依赖 · 单 exe · 开机自启 · 音乐渐变开关
 
