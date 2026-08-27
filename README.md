@@ -1,6 +1,14 @@
 <div align="center">
 
-# Tune
+# 🎵 Tune
+
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/huaxiren6/Tune?style=social)](https://github.com/huaxiren6/Tune)
+[![Release](https://img.shields.io/badge/download-v1.0.0-green)](https://github.com/huaxiren6/Tune/releases)
+
+![Tune banner](assets/banner.png)
+
 
 **Tune — 点击屏幕固定区域，一键开关 Wallpaper Engine 壁纸背景音乐**
 
