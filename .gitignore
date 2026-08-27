@@ -1,0 +1,15 @@
+# 编译产物
+*.exe
+
+# 临时/调试文件
+*.log
+*.bak
+*.tmp
+*.region
+
+# 生成预览图
+preview/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
