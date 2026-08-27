@@ -1,6 +1,6 @@
 <div align="center">
 
-# we-music-ctl
+# 🎵 Tune
 
 **Click a fixed spot on screen to toggle Wallpaper Engine's background music**
 
